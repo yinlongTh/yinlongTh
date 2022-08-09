@@ -1,21 +1,3 @@
 <h3>Yinlong Github</h3>
 
-👋 Hi, I’m Yinlong Thatiyanantaporn. The following is some details about me! <br><br>
-👀 Even though my major was Aerospace Engineering (Precise and Instrumental) for my degree, <br>
-   I’m interested in managing data and pulling expected/uexpected insights from them | Web app programming.<br>
-  
-  <strong>Being able to use the similar tools and knowledge to expose myself to new professional fields <br>
-  like economics and new technologies is the most fascinating thing could happend endlessly.</strong>  
-   <br>
-🌱 Currently learning 
-<pre>
-- Managing data platforms and cloud computing services
-- Mobile application development
-- Anything my future employers are looking for!!
-</pre>
-
-📫 Here is How to reach me ... <br>
-<pre>
-Email : yinlongth@icloud.com (UK) <br>
-        yinlongess@gmail.com (Other)
-</pre>
+Trilingual Engineer Graduate equipped with an ability to recognise potential issues before problems occur and a team player attitude. Highly alert while performing job tasks and determined problem solver. Seeking to develop a career in the field of IT and Engineering, and is comfortable working in a challenging environment.
